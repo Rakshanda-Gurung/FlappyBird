@@ -37,10 +37,10 @@ How to Play
 • Avoid colliding with the pipes or the top/bottom of the screen.
 • Press Space Bar or Enter after a game over to restart.
 • Score increases by successfully passing pipes.
- FlappyBirdJava/
- FlappyBird.java         # Main game code
- bird.jpg                # Bird image used in game
- README.md               # Project documentation
+   
+ FlappyBird.java # Main game code
+ bird.jpg # Bird image used in game
+ README.md # Project documentation
 
 License
 
