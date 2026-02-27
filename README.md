@@ -27,7 +27,7 @@ Installation
 2. Clone the repository:
 git clone https://github.com/yourusername/FlappyBirdJava.git
 3. Open the project in your favorite Java IDE (Eclipse, IntelliJ, NetBeans).
-4. Ensure the bird.jpg image exists at the correct path (C:\Users\Shivam\Desktop\FILES\bird.jpg) or update the path in the code.
+4. Ensure the bird.jpg image exists at the correct path (C:\Users\xy\Desktop\FILES\bird.jpg) or update the path in the code.
 5. Compile and run the FlappyBird.java file.
 javac FlappyBird.java
 java FlappyBird
