@@ -11,6 +11,7 @@ Table of Contents
 • Project Structure
 • Future Improvements
 • License
+
 Features
 • Smooth animation with Java Swing Timer
 • Gravity and jump mechanics for the bird
@@ -27,7 +28,7 @@ Installation
 2. Clone the repository:
 git clone https://github.com/yourusername/FlappyBirdJava.git
 3. Open the project in your favorite Java IDE (Eclipse, IntelliJ, NetBeans).
-4. Ensure the bird.jpg image exists at the correct path (C:\Users\xy\Desktop\FILES\bird.jpg) or update the path in the code.
+4. Ensure the bird.jpg image exists at the correct path (C:\Users\Rakshanda\Desktop\FILES\bird.jpg) or update the path in the code.
 5. Compile and run the FlappyBird.java file.
 javac FlappyBird.java
 java FlappyBird
@@ -37,11 +38,10 @@ How to Play
 • Press Space Bar or Enter after a game over to restart.
 • Score increases by successfully passing pipes.
  FlappyBirdJava/
- FlappyBird.java  # Main game code
- bird.jpg     # Bird image used in game
- README.md      # Project documentation
+ FlappyBird.java         # Main game code
+ bird.jpg                # Bird image used in game
+ README.md               # Project documentation
 
 License
 
-This project is  under the 
-Apache- 2.0 license
+This project is  under the Apache- 2.0 license
