@@ -3,14 +3,7 @@
 Flappy Bird Game in Java
 A simple Flappy Bird clone built using Java Swing. Control the bird, avoid the pipes, and try to achieve the highest score!
 
-Table of Contents
-• Features
-• Demo
-• Installation
-• How to Play
-• Project Structure
-• Future Improvements
-• License
+
 
 Features
 • Smooth animation with Java Swing Timer
@@ -40,6 +33,3 @@ How to Play
  bird.jpg # Bird image used in game
  README.md # Project documentation
 
-License
-
-This project is  under the Apache- 2.0 license
