@@ -29,7 +29,5 @@ How to Play
 • Press Space Bar or Enter after a game over to restart.
 • Score increases by successfully passing pipes.
    
- FlappyBird.java # Main game code
- bird.jpg # Bird image used in game
- README.md # Project documentation
+ 
 
