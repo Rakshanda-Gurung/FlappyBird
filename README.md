@@ -6,12 +6,12 @@ A simple Flappy Bird clone built using Java Swing. Control the bird, avoid the p
 
 
 # Features
-• Smooth animation with Java Swing Timer
-• Gravity and jump mechanics for the bird
-• Randomly generated pipes with adjustable gaps
-• Score tracking system
-• Game Over screen with option to restart
-• Custom bird image support
+- Smooth animation with Java Swing Timer
+- Gravity and jump mechanics for the bird
+- Randomly generated pipes with adjustable gaps
+- Score tracking system
+- Game Over screen with option to restart
+- Custom bird image support
 
 # Installation
 1. Make sure you have Java JDK installed.
