@@ -19,9 +19,9 @@ A simple Flappy Bird clone built using Java Swing. Control the bird, avoid the p
 3. Ensure the bird.jpg image exists at the correct path or update the path in the code.
 4. Compile and run the FlappyBird.java file.
    
-javac FlappyBird.java
+- javac FlappyBird.java
 
-java FlappyBird
+- java FlappyBird
 
 # How to Play
 • Press Space Bar to make the bird jump.
