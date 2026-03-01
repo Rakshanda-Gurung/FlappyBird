@@ -24,10 +24,10 @@ A simple Flappy Bird clone built using Java Swing. Control the bird, avoid the p
 - java FlappyBird
 
 # How to Play
-• Press Space Bar to make the bird jump.
-• Avoid colliding with the pipes or the top/bottom of the screen.
-• Press Space Bar or Enter after a game over to restart.
-• Score increases by successfully passing pipes.
+- Press Space Bar to make the bird jump.
+- Avoid colliding with the pipes or the top/bottom of the screen.
+- Press Space Bar or Enter after a game over to restart.
+- Score increases by successfully passing pipes.
    
  
 
