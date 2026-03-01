@@ -5,7 +5,7 @@ A simple Flappy Bird clone built using Java Swing. Control the bird, avoid the p
 
 
 
-Features
+# Features
 • Smooth animation with Java Swing Timer
 • Gravity and jump mechanics for the bird
 • Randomly generated pipes with adjustable gaps
@@ -13,7 +13,7 @@ Features
 • Game Over screen with option to restart
 • Custom bird image support
 
-Installation
+# Installation
 1. Make sure you have Java JDK installed.
 2. Open the project in your Java IDE (Eclipse, IntelliJ, NetBeans).
 3. Ensure the bird.jpg image exists at the correct path or update the path in the code.
@@ -23,7 +23,7 @@ javac FlappyBird.java
 
 java FlappyBird
 
-How to Play
+# How to Play
 • Press Space Bar to make the bird jump.
 • Avoid colliding with the pipes or the top/bottom of the screen.
 • Press Space Bar or Enter after a game over to restart.
