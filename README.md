@@ -1,6 +1,6 @@
 # Flappybird
  
-Flappy Bird Game in Java
+**Flappy Bird Game in Java**
 A simple Flappy Bird clone built using Java Swing. Control the bird, avoid the pipes, and try to achieve the highest score!
 
 
